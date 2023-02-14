@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "code": "VOUCHER",
+    "name": "voucher",
+    "price": 5.0
+  },
+  {
+    "id": 1,
+    "code": "TSHIRT",
+    "name": "tshirt",
+    "price": 20.0
+  },
+  {
+    "id": 1,
+    "code": "MUG",
+    "name": "mug",
+    "price": 7.50
+  }
+]
